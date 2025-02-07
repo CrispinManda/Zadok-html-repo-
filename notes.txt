@@ -24,23 +24,12 @@
          <!-- radio button tag -->
          <!-- textarea tag -->
          <!-- footer tag -->
+
+         Monday
             <!-- header tag -->
-             <!-- nav tag -->
              <!-- aside tag -->
-             <!-- section tag -->
-             <!-- article tag -->
-             <!-- footer tag -->
-             <!-- main tag -->
-             <!-- div tag -->
-             <!-- span tag -->
-             <!-- footer tag -->
              <!-- header tag -->
-                <!-- nav tag -->
+                <!-- q tag -->
                 <!-- aside tag -->
-                <!-- section tag -->
                  <!-- article tag -->
-                 <!-- footer tag -->
                  <!-- main tag -->
-                 <!-- div tag -->
-                 <!-- span tag -->
-                 <!-- footer tag -->
